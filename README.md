@@ -15,6 +15,8 @@ The fastacount.py script is used to count the number of sequences in a FASTA fil
 Usage
 To count the number of FASTA headers in a file, use the following command:
 
+```
 ./fastacount.py your_fasta_file.fasta
+```
 
 Replace your_fasta_file.fasta with the actual path to your FASTA file.
