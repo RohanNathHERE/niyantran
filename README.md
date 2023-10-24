@@ -49,4 +49,4 @@ To extract the unique species name in a FASTA file, use the following command:
 ./get_species.py your_fasta_file.fasta
 ```
 
-#### Replace your_fasta_file.fasta with the actual path to your FASTA file.
+### Replace your_fasta_file.fasta with the actual path to your FASTA file.
